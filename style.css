@@ -1,0 +1,9 @@
+h2 {
+  font-weight: normal;
+}
+#tasks {
+  background: #ccc;
+}
+.completed {font-size: 12px;
+}
+body{background: pink;}
